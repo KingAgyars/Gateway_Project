@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="btIFBhcpm8LsQrRMi7zJ">
+    <mxGraphModel dx="1149" dy="1336" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rEqulXHnDxbmBJWCOcXF-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-88" y="-123" width="625" height="561" as="geometry" />
+        </mxCell>
+        <mxCell id="rEqulXHnDxbmBJWCOcXF-20" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="rEqulXHnDxbmBJWCOcXF-3" target="rEqulXHnDxbmBJWCOcXF-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rEqulXHnDxbmBJWCOcXF-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-34" y="2" width="322" height="347" as="geometry" />
+        </mxCell>
+        <mxCell id="rEqulXHnDxbmBJWCOcXF-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="9" y="76" width="222" height="218" as="geometry" />
+        </mxCell>
+        <mxCell id="rEqulXHnDxbmBJWCOcXF-18" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="414" y="132" width="96" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="rEqulXHnDxbmBJWCOcXF-22" value="AWS CLOUD&amp;nbsp;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-11" y="-81" width="300" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="rEqulXHnDxbmBJWCOcXF-23" value="VPC" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry y="18" width="187" height="42" as="geometry" />
+        </mxCell>
+        <mxCell id="rEqulXHnDxbmBJWCOcXF-24" value="PUBLIC SUBNET" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="23" y="102" width="167" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="rEqulXHnDxbmBJWCOcXF-25" value="INTERNET GATEWAY" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="351" y="237" width="186" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
